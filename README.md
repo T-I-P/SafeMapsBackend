@@ -3,6 +3,7 @@ SafeMaps
 
 A map application to find the safest path from point A to point B
 
+
 **Task Assignments**
 -------------------
 
@@ -12,15 +13,17 @@ A map application to find the safest path from point A to point B
 
 **Backend**: Niko, Ayush, Gehna
 
-Repo Structure
+
+Project/Repo Structure
 --------------
+There are two separate repositories for managing the frontend and backend of the application: [SafeMapsFrontend](https://github.com/T-I-P/SafeMapsFrontend) and [SafeMapsBackend](https://github.com/T-I-P/SafeMapsBackend)
 
-Branches:
 
-`main` - combined code from other branches _(cannot push code directly, have to create a pull request with at least one approved review)_
+Branching Strategy:
 
-`frontend` - for frontend stuff
+`main` - This branch contains the combined code from other branches. Please note that direct code pushes are not permitted; instead, contributors must create a pull request _with at least one approved review_.
 
-`backend` - for backend stuff
+When creating a new branch, adhere to the following convention: use `feature/<User Story Number>` for feature branches or `bugfix/<User Story Number>` if it is a bugfix branch.
 
->_Remember to always take a pull from the `main` branch before you start working on any feature_
+
+>_Remember to always take a pull from the `main` branch before you start working on any feature or bug_
