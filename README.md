@@ -23,4 +23,4 @@ Branches:
 
 `backend` - for backend stuff
 
->_Remember to always take a pull from the branch before you start working on any feature_
+>_Remember to always take a pull from the `main` branch before you start working on any feature_
