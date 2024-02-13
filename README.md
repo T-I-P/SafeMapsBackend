@@ -22,3 +22,5 @@ Branches:
 `frontend` - for frontend stuff
 
 `backend` - for backend stuff
+
+>_Remember to always take a pull from the branch before you start working on any feature_
