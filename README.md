@@ -1,9 +1,24 @@
-# SafeMaps
+SafeMaps
+--------
+
 A map application to find the safest path from point A to point B
 
-## Taks
-UI Design: Gehna, Grace
+**Task Assignments**
+-------------------
 
-Frontend: Pranjal, Deepanshu
+**UI Design**: Gehna, Grace
 
-Backend: Niko, Ayush, Gehna
+**Frontend**: Pranjal, Deepanshu
+
+**Backend**: Niko, Ayush, Gehna
+
+Repo Structure
+--------------
+
+Branches:
+
+`main` - combined code from other branches _(cannot push code directly, have to create a pull request with at least one approved review)_
+
+`frontend` - for frontend stuff
+
+`backend` - for backend stuff
